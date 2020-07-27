@@ -1,0 +1,6 @@
+Names       Average     Grade       
+
+white,sam   80          B           
+Brown,john  78.75       C           
+Black,ggg   79          C           
+Blue,yyy    91.75       A           

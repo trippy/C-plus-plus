@@ -1,0 +1,3 @@
+Maximum value in file: 100
+Minimum value in file: 1
+Difference between max and min: 99
